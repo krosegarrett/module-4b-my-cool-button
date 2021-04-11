@@ -1,0 +1,24 @@
+p{
+  font-size: 20px;
+  border: 1px outset purple;
+  border-width: medium;
+  border-radius: 100px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  background-color: plum;
+  box-shadow: 5px 5px 5px black;
+}
+
+p:hover{
+  border: 1px outset black;
+  background-color: white;
+}
+
+a:link{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: plum;
+}
